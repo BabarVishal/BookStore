@@ -1,0 +1,67 @@
+.home-page {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+.left {
+    width: 100%;
+}
+
+.left img {
+    max-width: 100%;
+    height: auto;
+   margin: 100px 0px ;
+}
+
+.right {
+    width: 100%;
+    padding: 190px 50px;
+}
+
+.right input[type="text"],
+.right button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+}
+
+.right button {
+    background-color: #2d3033;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.right button:hover {
+    background-color: #0056b3;
+}
+
+.left p,
+.right p {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+
+span{
+    color: rgb(208, 97, 97);
+}
+
+@media only screen and (max-width: 600px) {
+    .home-page {
+      grid-template-columns: 1fr;
+    }
+  
+    .right {
+      padding: 50px;
+    }
+  
+    .left img {
+      margin: 20px 0;
+    }
+  }
+  

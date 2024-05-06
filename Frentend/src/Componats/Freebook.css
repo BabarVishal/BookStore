@@ -1,0 +1,19 @@
+.freebook{
+  margin-left: 350px;
+}
+
+.Freebook{
+  margin-left: 50px;
+}
+
+@media only screen and (max-width: 600px){
+  .freebook{
+    margin-left: 70px;
+    margin-top: 30px;
+  }
+  
+  .Freebook{
+   width: 100%;
+    margin-left: 10px;
+  }
+}

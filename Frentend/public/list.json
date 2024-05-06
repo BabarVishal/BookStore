@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Frank Herbert",
+    "title": "1965",
+    "price": "290$",
+    "category": "Free",
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "2",
+    "name": "Orson Scott Card",
+    "title": "1985",
+    "price": "330$",
+    "category": "Free",
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "3",
+    "name": "Douglas Adams",
+    "title": "1979",
+    "price": "550$",
+    "category": "Paid", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "4",
+    "name": "Arthur C. Clarke",
+    "title": "1968",
+    "price": "180$",
+    "category": "Free",
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "5",
+    "name": "Isaac Asimov",
+    "title": "1951",
+    "price": "110$",
+    "category": "Paid", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "6",
+    "name": "Ray Bradbury",
+    "title": "1950",
+    "price": "520$",
+    "category": "Free",
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "7",
+    "name": "Philip K. Dick",
+    "title": "1968",
+    "price": "550$",
+    "category": "Paid", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "8",
+    "name": "William Gibson",
+    "title": "1984",
+    "price": "550$",
+    "category": "Free",
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "9",
+    "name": "Robert A. Heinlein",
+    "title": "1961",
+    "price": "330$",
+    "category": "Free",
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  },
+  {
+    "id": "10",
+    "name": "Ursula K. Le Guin",
+    "title": "1969",
+    "price": "220$",
+    "category": "Paid", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/14/12/book-306468_960_720.png"
+  }
+]
