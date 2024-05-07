@@ -8,7 +8,7 @@ function Cours() {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get('http://localhost:5000/Book');
+        const res = await axios.get('http://localhost:5000/api/v1/user/Book');
         console.log(res.data); // Log the fetched data
         setBook(res.data);
       } catch (error) {
