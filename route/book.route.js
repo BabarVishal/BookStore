@@ -1,9 +1,14 @@
 import express from "express"
 
-import { getBook } from "../Controllers/book.contriller.js"
+
+import { userLoginData, userSingInData, getBook } from "../Controllers/user.controller.js";
 
 const router = express.Router()
 
-router.get("/", getBook)
+router.get("/Book", getBook);
+
+router.post("/SingIn", userSingInData)
+
+router.get("/Login", userLoginData)
 
 export default router

@@ -26,7 +26,7 @@ db.once('open', () => {
 });
 //definding routes......
 
-app.use("/Book", Bookroute)
+app.use("/api/v1/user", Bookroute)
 
 app.listen(PORT, () => {
   console.log(`Example app listening on port ${PORT}`)
